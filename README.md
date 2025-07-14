@@ -1,1 +1,1 @@
-# Quantitative-Finance-Project-1
+# Momentum Portfolio Strategy (stock returns using CRSP data)
